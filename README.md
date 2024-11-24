@@ -7,7 +7,7 @@
 - 🔭 Currently working on projects to improve my frontend developmnet skills.
 - ⚡ Created a webiste for a company using WordPress: <a href="https://borecki.pl/">Link to my page</a>
 - 🏫 Learning Java and Android Studio as part of my school curriculum.
-- ⭐ My goadl is to become a professional programmer.
+- ⭐ My goal is to become a professional programmer.
 
 
 ---
