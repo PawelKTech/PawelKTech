@@ -4,10 +4,13 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- 🔭 Currently working on projects to improve my frontend developmnet skills.
-- ⚡ Created a webiste for a company using WordPress: <a href="https://borecki.pl/">Link to my page</a>
-- 🏫 Learning Java and Android Studio as part of my school curriculum.
-- ⭐ My goal is to become a professional programmer.
+- 🔭 Obecnie pracuję nad projektami, aby poprawić swoje umiejętności front-endowe.
+
+- ⚡ Stworzyłem stronę internetową dla firmy, używając WordPressa: <a href="https://borecki.pl/">Link do mojej strony</a>
+
+- 🏫 Uczę się Javy i Android Studio w ramach programu nauczania w szkole.
+
+- ⭐ Moim celem jest zostać profesjonalnym programistą.
 
 
 ---
