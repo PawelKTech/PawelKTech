@@ -1,37 +1,41 @@
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
 
-### :woman_technologist: About Me :
-- 🔭 Obecnie pracuję nad projektami, aby poprawić swoje umiejętności front-endowe.
+# Hi, I'm Paweł 👋
 
-- ⚡ Stworzyłem stronę internetową dla firmy, używając WordPressa: <a href="https://borecki.pl/">Link do mojej strony</a>
+**Software Developer | Web Development**
 
-- 🏫 Uczę się Javy i Android Studio w ramach programu nauczania w szkole.
+React · JavaScript · Node.js · Express
 
-- ⭐ Moim celem jest zostać profesjonalnym programistą.
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCss" alt="TailwindCss"  width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress"  alt="Wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+## About Me
 
-### :fire: My Stats :
+I'm currently studying Automation and Robotics at Poznan University of Technology. I graduated from a technical high school specializing in programming.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelKTech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+I've worked with JavaScript, React, and AI APIs during my internship at MDBootstrap. I also have experience building websites with WordPress.
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb,python,wordpress,git,github,vscode&theme=dark" alt="Tech Stack"/>
+</p>
+
+## Experience
+
+**Frontend Development Intern — MDBootstrap**
+
+- Worked with JavaScript and frontend/backend technologies.
+- Created web demos integrating AI APIs.
+
+**WordPress Website Development**
+
+- Built and customized websites using WordPress, themes, plugins, and Elementor.
+- Developed a website for a client.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PawelKTech&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawelKTech&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
+</p>
+
